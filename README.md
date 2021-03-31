@@ -1,1 +1,1 @@
-# pro-26
+This is a Quick, Tasty and Healthy recipe.
